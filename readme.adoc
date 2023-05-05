@@ -1,0 +1,10 @@
+
+
+== 参考
+[%hardbreaks]
+https://www.zhihu.com/column/c_1383722427357159424[计算机自制解释器 - 专栏 -知乎]
+https://zhuanlan.zhihu.com/p/388060204[计算机自制解释器Pascal（十一）：完整程序更合理的解析]
+https://zhuanlan.zhihu.com/p/388207653[计算机自制解释器Pascal（十二）：用pyecharts可视化AST树]
+https://zhuanlan.zhihu.com/p/388979503[计算机自制解释器Pascal（十三）：符号表生成器]
+https://zhuanlan.zhihu.com/p/389521557[计算机自制解释器Pascal（十四）：过程Procedure声明]
+https://zhuanlan.zhihu.com/p/390039110[计算机自制解释器Pascal（十五）：语义分析]
